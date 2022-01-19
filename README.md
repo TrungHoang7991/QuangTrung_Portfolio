@@ -5,3 +5,5 @@ My data science portfolio
 * Collecting data by scarping using Python libraries
 * Analyze the demographics of areas by Foursquare and Google Map API
 * Clustering the 10th most common venue in each neighborhood
+
+![](https://github.com/TrungHoang7991/QuangTrung_Portfolio/blob/main/image/download.png)
