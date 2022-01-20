@@ -13,3 +13,5 @@ My data science portfolio
 * Exploratory data analysis with missing, unbalance dataset.
 * Applied Classification and evaluation the accuracy of models.
 * Applied Ensemble method to increase the accuracy of models.
+
+![](https://github.com/TrungHoang7991/QuangTrung_Portfolio/blob/main/image/project2.png)
