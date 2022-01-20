@@ -7,3 +7,9 @@ My data science portfolio
 * Clustering the 10th most common venue in each neighborhood
 
 ![](https://github.com/TrungHoang7991/QuangTrung_Portfolio/blob/main/image/download.png)
+
+
+# [Project 2: Census Income Data](https://colab.research.google.com/drive/1fHbDNAZEDRFP_JWu1DRYj1tv6SuO_mP0?usp=sharing)
+* Exploratory data analysis with missing, unbalance dataset.
+* Applied Classification and evaluation the accuracy of models.
+* Applied Ensemble method to increase the accuracy of models.
