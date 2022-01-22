@@ -1,5 +1,8 @@
 # QuangTrung_Portfolio
-My data science portfolio
+
+Hello everyone, thank you for visiting my Data Science portfolio. This is where I challenge myself with Data Science theoretical knowlegde such as : Statistic, Math, Machine Learning algorithm. Moreover, through out projects, I can upgrade my technical skills with Python and R programming languages. 
+
+Hope we can learn from each other to be the better version. 
 
 # [Project 1: IBM Data Science Certificate](https://github.com/TrungHoang7991/Coursera_Capstone/blob/main/San%20Jose%20Notebook.ipynb)
 * Collecting data by scarping using Python libraries
